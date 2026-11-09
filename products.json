@@ -1,0 +1,4 @@
+[
+ {"id":"guide-cacao","name":"Guide pratique : améliorer la production du cacao","description":"Guide numérique pour mieux entretenir une cacaoyère et prévenir les maladies. Remplacez ce produit par votre PDF final.","price":2500,"file":"guide-cacao.pdf","active":true},
+ {"id":"guide-demarrage","name":"Guide numérique à personnaliser","description":"Ajoutez ici votre deuxième produit numérique.","price":1500,"file":"guide-demarrage.pdf","active":false}
+]
